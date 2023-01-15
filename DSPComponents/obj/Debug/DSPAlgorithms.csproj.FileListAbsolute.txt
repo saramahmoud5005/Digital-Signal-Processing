@@ -1,0 +1,16 @@
+D:\el kolia\4th Year\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+D:\el kolia\4th Year\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+D:\el kolia\4th Year\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+D:\el kolia\4th Year\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+D:\el kolia\4th Year\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\DELL'\Desktop\DSP\dspTasks\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+C:\Users\DELL'\Desktop\DSP\dspTasks\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+C:\Users\DELL'\Desktop\DSP\dspTasks\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+C:\Users\DELL'\Desktop\DSP\dspTasks\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\DELL'\Desktop\DSP\dspTasks\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+C:\Users\DELL'\Desktop\DSP\dspTasks\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+D:\el kolia\4th Year\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+D:\el kolia\4th Year\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+D:\el kolia\4th Year\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csprojResolveAssemblyReference.cache
+D:\el kolia\4th Year\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+D:\el kolia\4th Year\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
